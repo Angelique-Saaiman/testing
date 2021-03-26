@@ -1,2 +1,1 @@
-# testing
-A repository that will be linked with Rstudio
+## This is a markdown file
